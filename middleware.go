@@ -1,7 +1,7 @@
 package ginpongo2
 
 import (
-	"github.com/flosch/pongo2"
+	"github.com/cb12wallet/pongo2"
 	. "github.com/gin-gonic/gin"
 	"net/http"
 	"fmt"
